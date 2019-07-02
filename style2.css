@@ -1,0 +1,42 @@
+body{
+    background-color: #1a1a1a;
+        font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+.portfolio{
+  border: solid #1c1d1e 10px;
+  border-radius: 10px;
+  width: 30%;
+  margin-left: 10%;
+margin-top: 8%;
+text-align: center;
+color: grey;
+box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+transition: box-shadow 0.3s ease-in-out;
+}
+.portfolio:hover{
+box-shadow: 0px 0px 50px 21px #ed1c5b;
+cursor: pointer;
+}
+a{
+  text-decoration: none;
+}
+img{
+  width: 70%;
+  height: auto;
+}
+.mij{
+  border: solid #1c1d1e 10px;
+  border-radius: 10px;
+  width: 30%;
+  height: 290%;
+  margin-left: 60%;
+  margin-top: -36%;
+  text-align: center;
+  color: grey;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  transition: box-shadow 0.3s ease-in-out;
+}
+.mij:hover{
+box-shadow: 0px 0px 50px 21px #ed1c5b;
+cursor: pointer;
+}
